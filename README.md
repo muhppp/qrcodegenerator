@@ -21,20 +21,4 @@ The application window will open with a default resolution of 980x680 pixels and
 
 ---
 
-.
-🎨 Design Theme & Colors
-The user interface is carefully crafted using a specific set of hex colors to achieve its premium look
-:
-Backgrounds: #0f0f17 (App Background), #161622 (Sidebar), #1f1f2e (Content Cards), #2b2b3d (Input/Entry Widgets)
-.
-Text: #e2e8f0 (High Contrast), #94a3b8 (Muted)
-.
-Accents:
-🔵 Primary Action: #3b82f6 (Hover: #60a5fa)
-.
-🟢 Success/Start: #10b981
-.
-🔴 Error/Danger: #f43f5e
-.
-🟣 Secondary Actions: #8b5cf6
-.
+Created with help of gemini 3.5 flash
